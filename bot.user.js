@@ -33,10 +33,10 @@ $.get('https://raw.githubusercontent.com/Apostolique/Agar.io-bot/master/bot.user
 
 
 
-console.log("Running Apos Bot!");
+console.log("Running Dimas Bot!");
 (function(f, g) {
     var splitDistance = 710;
-    console.log("Apos Bot!");
+    console.log("Dimas Bot!");
 
     if (f.botList == null) {
         f.botList = [];
@@ -44,10 +44,10 @@ console.log("Running Apos Bot!");
         g('#locationUnknown').addClass('form-group');
     }
 
-    f.botList.push(["AposBot", findDestination]);
+    f.botList.push(["Dimas Bot", findDestination]);
 
     var bList = g('#bList');
-    g('<option />', {value: (f.botList.length - 1), text: "AposBot"}).appendTo(bList);
+    g('<option />', {value: (f.botList.length - 1), text: "Dimas Bot"}).appendTo(bList);
 
     //Given an angle value that was gotten from valueAndleBased(),
     //returns a new value that scales it appropriately.

@@ -82,10 +82,10 @@ console.log("Running Bot Launcher!");
 
     window.jQuery('#nick').val(originalName);
 
-    window.botList.push(["Human", humanPlayer]);
+    window.botList.push(["Dimas Tamvan", humanPlayer]);
 
     var bList = window.jQuery('#bList');
-    window.jQuery('<option />', {value: (window.botList.length - 1), text: "Human"}).appendTo(bList);
+    window.jQuery('<option />', {value: (window.botList.length - 1), text: "Dimas Bot"}).appendTo(bList);
 
     la = !0;
     za();
@@ -176,7 +176,7 @@ console.log("Running Bot Launcher!");
   }
   function na() {
     //UPDATE
-    if (toggle ||window.botList[botIndex][0] == "Human") {
+    if (toggle ||window.botList[botIndex][0] == "Dimas Bot") {
       X = (T - p / 2) / g + s;
       Y = (U - q / 2) / g + t
     }

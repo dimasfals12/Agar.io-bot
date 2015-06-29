@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        Dimas Hermawan
+// @namespace   Dimas Hermawan
 // @include     http://agar.io/
 // @version     3.31
 // @grant       none

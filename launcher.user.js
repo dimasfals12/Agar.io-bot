@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        Launcher
-// @namespace   AposLauncher
+// @name        Dimas Tamvan
+// @namespace   Dimas BOt
 // @include     http://agar.io/
 // @version     2.85
 // @grant       none

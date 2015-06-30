@@ -4,7 +4,7 @@
 // @include     http://agar.io/
 // @version     2.85
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      https://www.facebook.com/cool12052001
 // ==/UserScript==
 
 Number.prototype.mod = function(n) {
@@ -975,7 +975,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  names = ["Gw Kurang Tamvan"],
+  names = ["Dimas Tamvan"],
   originalName = names[Math.floor(Math.random() * names.length)],
   sessionScore = 0,
   serverIP = "",

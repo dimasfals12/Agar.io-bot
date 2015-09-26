@@ -22,7 +22,7 @@ SOFTWARE.*/
 // @include     http://agar.io/*
 // @version     3.63
 // @grant       none
-// @author      http://www.freevpn-ssh.tk
+// @author      http://www.bonbes-xp.blogspot.com
 // ==/UserScript==
 
 var aposBotVersion = 3.63;

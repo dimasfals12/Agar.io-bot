@@ -21,7 +21,7 @@ SOFTWARE.*/
 // @include     http://agar.io/*
 // @version     4.124
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      http://www.bonbes-xp.blogspot.com
 // ==/UserScript==
 var aposLauncherVersion = 4.124;
 
